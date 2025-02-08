@@ -1,6 +1,6 @@
 👋 Hi, I’m @ZahinTasnin
 👀 I’m interested in Computer Science
-🌱 I’m currently learning Data Structures and Algorithm
+🌱 I’m currently learning Discrete Structures
 💞️ I’m looking explore internship opportunities in tech related fields
 
 <!---
