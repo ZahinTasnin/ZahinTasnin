@@ -1,6 +1,6 @@
 👋 Hi, I’m @ZahinTasnin
-👀 I’m a freshman at Cornell University
-🌱 I’m currently learning Discrete Structures
+👀 I’m a junior at Cornell University
+🌱 I’m currently learning AI and ML
 💞️ I’m looking to explore internship opportunities in tech related fields
 
 <!---
